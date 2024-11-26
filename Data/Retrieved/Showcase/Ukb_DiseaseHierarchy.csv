@@ -1,0 +1,474 @@
+Coding,Meaning,Selectable,Node,Parent,Ageing
+-1,cardiovascular,No,1071,Top,1
+-1,endocrine/diabetes,No,1075,Top,1
+-1,gastrointestinal/abdominal,No,1073,Top,2
+-1,gynaecology/breast,No,1079,Top,0
+-1,haematology/dermatology,No,1078,Top,3
+-1,immunological/systemic disorders,No,1080,Top,3
+-1,infections,No,1495,Top,0
+-1,musculoskeletal/trauma,No,1077,Top,2
+-1,neurology/eye/psychiatry,No,1076,Top,2
+-1,renal/urology,No,1074,Top,1
+-1,respiratory/ent,No,1072,Top,3
+1576,dengue fever,Yes,1765,1762,0
+1675,giardia / giardiasis,Yes,1767,1762,0
+1441,malaria,Yes,1763,1762,0
+1443,schistosomiasis/bilharzia,Yes,1764,1762,0
+1577,typhoid fever,Yes,1766,1762,0
+1676,yellow fever,Yes,1770,1762,0
+1678,chlamydia,Yes,1772,1758,0
+1574,diphtheria,Yes,1768,1758,0
+1442,helicobacter pylori,Yes,1760,1758,0
+1566,mrsa / methicillin resistant staphylococcus aureus,Yes,1759,1758,0
+1677,scarlet fever / scarlatina,Yes,1771,1758,0
+1440,tuberculosis (tb),Yes,1761,1758,0
+1572,whooping cough / pertussis,Yes,1769,1758,0
+1571,chickenpox,Yes,1753,1752,0
+1573,shingles,Yes,1754,1752,0
+1575,herpes simplex,Yes,1755,1747,0
+1439,hiv/aids,Yes,1748,1747,0
+1567,infectious mononucleosis / glandular fever / epstein barr virus (ebv),Yes,1756,1747,0
+1568,measles / morbillivirus,Yes,1750,1747,0
+1569,mumps / epidemic parotitis,Yes,1757,1747,0
+1570,rubella / german measles,Yes,1751,1747,0
+1674,varicella zoster virus,Yes,1752,1747,0
+1670,allergy to elastoplast,Yes,1744,1743,0
+1671,allergy to nickel,Yes,1745,1743,0
+1655,fracture metatarsal,Yes,1729,1728,0
+1656,fracture toe,Yes,1730,1728,0
+1653,fracture fibula,Yes,1727,1725,0
+1652,fracture tibia,Yes,1726,1725,0
+1654,fracture foot,Yes,1728,1720,0
+1651,fracture lower leg / ankle,Yes,1725,1720,3
+1648,fracture neck of femur / hip,Yes,1722,1720,0
+1650,fracture patella / knee,Yes,1724,1720,0
+1647,fracture pelvis,Yes,1721,1720,0
+1649,fracture shaft of femur,Yes,1723,1720,0
+1644,fracture rib,Yes,1717,1713,0
+1645,fracture sternum,Yes,1718,1713,0
+1646,fracture vertebra / crush fracture / vertebral collapse,Yes,1719,1713,0
+1635,fracture radius,Yes,1707,1706,0
+1636,fracture ulna,Yes,1708,1706,0
+1637,fracture wrist / colles fracture,Yes,1709,1706,0
+1631,fracture clavicle / collar bone,Yes,1703,1702,0
+1639,fracture finger,Yes,1711,1702,0
+1634,fracture forearm / wrist,Yes,1706,1702,3
+1638,fracture hand,Yes,1710,1702,0
+1632,fracture shoulder / scapula,Yes,1704,1702,0
+1640,fracture thumb,Yes,1712,1702,0
+1633,fracture upper arm / humerus / elbow,Yes,1705,1702,0
+1629,fracture face / orbit / eye socket,Yes,1700,1696,0
+1627,fracture jaw,Yes,1698,1696,0
+1630,fracture neck / cervical fracture,Yes,1701,1696,0
+1628,fracture nose,Yes,1699,1696,0
+1626,fracture skull / head,Yes,1697,1696,0
+-1,fracture head & neck,No,1696,1695,0
+-1,fracture pelvis & lower limb,No,1720,1695,3
+-1,fracture upper limb & shoulder,No,1702,1695,3
+-1,other fractures,No,1713,1695,0
+1623,tennis elbow / lateral epicondylitis,Yes,1691,1690,0
+1624,housemaid's knee (prepatellar bursitis),Yes,1692,1688,0
+1620,bursitis,Yes,1688,1686,0
+1622,epicondylitis,Yes,1690,1686,0
+1621,synovitis,Yes,1689,1686,0
+1619,tendonitis / tendinitis / tenosynovitis,Yes,1687,1686,0
+1609,glomerulnephritis,Yes,1677,1676,0
+1498,empyema,Yes,1561,1660,0
+1411,lung abscess,Yes,1464,1660,0
+1398,pneumonia,Yes,1443,1660,4
+1587,aortic regurgitation / incompetence,Yes,1653,1652,0
+1490,aortic stenosis,Yes,1553,1652,0
+1585,mitral regurgitation / incompetence,Yes,1651,1650,0
+1489,mitral stenosis,Yes,1552,1650,0
+1488,mitral valve prolapse,Yes,1551,1650,0
+1558,ectopic pregnancy,Yes,1622,1621,0
+1559,miscarriage,Yes,1623,1621,0
+1663,abnormal smear (cervix),Yes,1737,1617,0
+1662,cervical erosion,Yes,1736,1616,0
+1554,cervical intra-epithelial neoplasia (cin) / precancerous cells cervix,Yes,1617,1616,0
+1555,cervical polyps,Yes,1618,1616,0
+1402,endometriosis,Yes,1451,1615,0
+1351,uterine fibroids,Yes,1393,1615,0
+1352,uterine polyps,Yes,1394,1615,0
+1353,vaginal prolapse/uterine prolapse,Yes,1395,1615,0
+1349,ovarian cyst or cysts,Yes,1391,1614,0
+1350,polycystic ovaries/polycystic ovarian syndrome,Yes,1392,1614,0
+1478,cervical spondylosis,Yes,1541,1608,2
+1533,disc degeneration,Yes,1596,1595,0
+1312,prolapsed disc/slipped disc,Yes,1351,1595,2
+1607,diabetic nephropathy,Yes,1675,1582,0
+1520,iga nephropathy,Yes,1583,1582,0
+1605,femoral hernia,Yes,1673,1574,0
+1606,incisional hernia,Yes,1674,1574,0
+1513,inguinal hernia,Yes,1576,1574,0
+1512,umbilical hernia,Yes,1575,1574,0
+1504,anal fissure,Yes,1567,1566,0
+1505,haemorrhoids / piles,Yes,1568,1566,0
+1126,spontaneous pneumothorax/recurrent pneumothorax,Yes,1145,1560,0
+1495,lymphoedema,Yes,1558,1556,0
+1593,varicose ulcer,Yes,1659,1556,0
+1494,varicose veins,Yes,1557,1556,0
+1591,aortic aneurysm rupture,Yes,1657,1555,0
+1592,aortic dissection,Yes,1658,1555,0
+1537,joint pain,Yes,1600,1527,0
+1462,crohns disease,Yes,1522,1521,0
+1463,ulcerative colitis,Yes,1523,1521,1
+1345,pemphigoid/pemphigus,Yes,1387,1513,0
+1344,stevens johnson syndrome,Yes,1386,1513,0
+1548,acne/acne vulgaris,Yes,1611,1510,0
+1667,alopecia / hair loss,Yes,1741,1510,0
+1454,blistering/desquamating skin disorder,Yes,1513,1510,0
+1680,bowen's disease,Yes,1776,1510,0
+1625,cellulitis,Yes,1693,1510,0
+1455,chronic skin ulcers,Yes,1514,1510,0
+1452,eczema/dermatitis,Yes,1511,1510,3
+1549,lichen planus,Yes,1612,1510,0
+1550,lichen sclerosis,Yes,1613,1510,0
+1453,psoriasis,Yes,1512,1510,3
+1660,rosacea,Yes,1734,1510,0
+1661,vitiligo,Yes,1735,1510,0
+1339,sickle cell disease,Yes,1378,1509,0
+1340,thalassaemia,Yes,1379,1509,0
+1658,myelofibrosis,Yes,1732,1507,0
+1438,polycythaemia vera,Yes,1493,1507,0
+1332,aplastic anaemia,Yes,1371,1504,0
+1330,iron deficiency anaemia,Yes,1369,1504,2
+1331,pernicious anaemia,Yes,1370,1504,0
+1546,essential thrombocytosis,Yes,1609,1503,0
+1328,haemophilia,Yes,1367,1503,0
+1327,low platelets/platelet disorder,Yes,1366,1503,0
+1446,anaemia,Yes,1504,1502,2
+1445,clotting disorder/excessive bleeding,Yes,1503,1502,0
+1451,hereditary/genetic haematological disorder,Yes,1509,1502,0
+1450,monoclonal gammopathy/not myeloma,Yes,1508,1502,0
+1449,myeloproliferative disorder,Yes,1507,1502,0
+1448,neutropenia/lymphopenia,Yes,1506,1502,0
+1447,pancytopenia,Yes,1505,1502,0
+-1,bacterial infection,No,1758,1495,0
+1657,septicaemia / sepsis,Yes,1731,1495,0
+-1,tropical & travel-related infections,No,1762,1495,0
+-1,viral infection,No,1747,1495,0
+1525,benign / essential tremor,Yes,1588,1489,0
+1683,benign neuroma,Yes,1779,1489,0
+1436,headaches (not migraine),Yes,1491,1489,3
+1659,meningioma / benign meningeal tumour,Yes,1733,1489,0
+1437,myasthenia gravis,Yes,1492,1489,0
+1526,polio / poliomyelitis,Yes,1589,1489,0
+1499,labyrinthitis,Yes,1562,1469,0
+1421,meniere's disease,Yes,1475,1469,0
+1420,otosclerosis,Yes,1474,1469,0
+1597,tinnitus / tiniitis,Yes,1664,1469,0
+1500,vertigo,Yes,1563,1469,0
+1418,chronic laryngitis,Yes,1472,1468,0
+1598,tonsiltis,Yes,1665,1468,4
+1419,vocal cord polyp,Yes,1473,1468,0
+1416,chronic sinusitis,Yes,1470,1467,3
+1417,nasal polyps,Yes,1471,1467,0
+1415,ear/vestibular disorder,Yes,1469,1466,2
+1413,nasal/sinus disorder,Yes,1467,1466,3
+1414,throat or larynx disorder,Yes,1468,1466,4
+1408,alcohol dependency,Yes,1461,1460,0
+1409,opioid dependency,Yes,1462,1460,0
+1410,other substance abuse/dependency,Yes,1463,1460,0
+1519,kidney nephropathy,Yes,1582,1454,0
+1608,nephritis,Yes,1676,1454,0
+1427,polycystic kidney,Yes,1482,1454,0
+1480,dermatomyositis,Yes,1543,1426,0
+1481,polymyositis,Yes,1544,1426,0
+1386,allergy or anaphylactic reaction to drug,Yes,1429,1417,3
+1385,allergy or anaphylactic reaction to food,Yes,1428,1417,3
+1668,allergy to house dust mite,Yes,1742,1417,0
+1669,contact dermatitis,Yes,1743,1417,0
+1562,food intolerance,Yes,1626,1417,0
+1387,hayfever/allergic rhinitis,Yes,1430,1417,3
+1563,urticaria,Yes,1627,1417,0
+1383,dermatopolymyositis,Yes,1426,1416,0
+1561,raynaud's phenomenon/disease,Yes,1625,1416,0
+1384,scleroderma/systemic sclerosis,Yes,1427,1416,0
+1382,sjogren's syndrome/sicca syndrome,Yes,1425,1416,0
+1381,systemic lupus erythematosis/sle,Yes,1424,1416,0
+1372,vasculitis,Yes,1415,1416,0
+1376,giant cell/temporal arteritis,Yes,1419,1415,0
+1379,microscopic polyarteritis,Yes,1422,1415,0
+1380,polyartertis nodosa,Yes,1423,1415,0
+1377,polymyalgia rheumatica,Yes,1420,1415,0
+1378,wegners granulmatosis,Yes,1421,1415,0
+1666,benign breast lump,Yes,1740,1407,0
+1367,breast cysts,Yes,1410,1407,0
+1560,breast fibroadenoma,Yes,1624,1407,0
+1366,fibrocystic disease,Yes,1409,1407,0
+1681,hydatiform mole,Yes,1777,1391,0
+1553,cervical problem,Yes,1616,1390,0
+1664,dysmenorrhoea / dysmenorrhea,Yes,1738,1390,0
+1403,female infertility,Yes,1452,1390,0
+1665,menopausal symptoms / menopause,Yes,1739,1390,0
+1556,menorrhagia (unknown cause),Yes,1619,1390,0
+1551,ovarian problem,Yes,1614,1390,0
+1557,pelvic inflammatory disease/ pid,Yes,1620,1390,0
+1552,uterine problem,Yes,1615,1390,0
+1541,carpal tunnel syndrome,Yes,1604,1323,0
+1544,dupuytren's contracture,Yes,1607,1323,0
+1542,fibromyalgia,Yes,1605,1323,0
+1406,muscle or soft tissue injuries,Yes,1457,1323,2
+1322,myositis/myopathy,Yes,1361,1323,0
+1540,plantar fascitis,Yes,1603,1323,0
+1618,soft tissue inflammation,Yes,1686,1323,0
+1538,arthritis (nos),Yes,1601,1321,2
+1466,gout,Yes,1526,1321,2
+1465,osteoarthritis,Yes,1525,1321,2
+1467,other joint disorder,Yes,1527,1321,2
+1477,psoriatic arthropathy,Yes,1540,1321,0
+1464,rheumatoid arthritis,Yes,1524,1321,2
+1313,ankylosing spondylitis,Yes,1352,1320,0
+1534,back pain,Yes,1597,1320,2
+1532,disc problem,Yes,1595,1320,2
+1476,sciatica,Yes,1539,1320,2
+1535,scoliosis,Yes,1598,1320,0
+1536,spinal stenosis,Yes,1599,1320,0
+1311,spine arthritis/spondylitis,Yes,1350,1320,2
+1308,osteomyelitis,Yes,1347,1319,0
+1617,osteopenia,Yes,1685,1319,0
+1309,osteoporosis,Yes,1348,1319,1
+1310,paget's disease,Yes,1349,1319,0
+1531,post-natal depression,Yes,1594,1312,0
+1528,macular degeneration,Yes,1591,1301,0
+1282,retinal artery/vein occlusion,Yes,1308,1301,0
+1281,retinal detachment,Yes,1307,1301,0
+1527,retinitis pigmentosa,Yes,1590,1301,0
+1263,dementia/alzheimers/cognitive impairment,Yes,1289,1284,0
+1259,motor neurone disease,Yes,1285,1284,0
+1261,multiple sclerosis,Yes,1287,1284,0
+1260,myasthenia gravis,Yes,1286,1284,0
+1397,other demyelinating disease (not multiple sclerosis),Yes,1442,1284,0
+1262,parkinsons disease,Yes,1288,1284,0
+1256,acute infective polyneuritis/guillain-barre syndrome,Yes,1282,1280,0
+1468,diabetic neuropathy/ulcers,Yes,1528,1280,0
+1255,peripheral neuropathy,Yes,1281,1280,0
+1257,trapped nerve/compressed nerve,Yes,1283,1280,0
+1252,paraplegia,Yes,1278,1277,0
+1524,spina bifida,Yes,1587,1277,0
+1250,bell's palsy/facial nerve palsy,Yes,1276,1275,0
+1523,trigemminal neuralgia,Yes,1586,1275,0
+1245,brain abscess/intracranial abscess,Yes,1271,1270,0
+1246,encephalitis,Yes,1272,1270,0
+1247,meningitis,Yes,1273,1270,0
+1248,spinal abscess,Yes,1274,1270,0
+1470,anorexia/bulimia/other eating disorder,Yes,1531,1269,0
+1287,anxiety/panic attacks,Yes,1313,1269,2
+1290,deliberate self-harm/suicide attempt,Yes,1316,1269,0
+1286,depression,Yes,1312,1269,2
+1616,insomnia,Yes,1684,1269,0
+1291,mania/bipolar disorder/manic depression,Yes,1317,1269,0
+1288,nervous breakdown,Yes,1314,1269,0
+1615,obsessive compulsive disorder (ocd),Yes,1683,1269,0
+1469,post-traumatic stress disorder,Yes,1530,1269,0
+1289,schizophrenia,Yes,1315,1269,0
+1614,stress,Yes,1682,1269,0
+-1,substance abuse/dependency,No,1460,1269,0
+1613,blepharitis / eyelid infection,Yes,1681,1268,0
+1278,cataract,Yes,1304,1268,1
+1276,diabetic eye disease,Yes,1302,1268,0
+1529,dry eyes,Yes,1592,1268,0
+1274,eye infection,Yes,1300,1268,0
+1279,eye trauma,Yes,1305,1268,0
+1277,glaucoma,Yes,1303,1268,1
+1530,iritis,Yes,1593,1268,0
+1435,optic neuritis,Yes,1490,1268,0
+1275,retinal problem,Yes,1301,1268,1
+1266,head injury,Yes,1292,1266,0
+1394,peripheral nerve injury,Yes,1438,1266,0
+1267,spinal injury,Yes,1293,1266,0
+1433,cerebral palsy,Yes,1488,1265,0
+1258,chronic/degenerative neurological problem,Yes,1284,1265,2
+1249,cranial nerve problem/palsy,Yes,1275,1265,0
+1264,epilepsy,Yes,1290,1265,3
+1244,infection of nervous system,Yes,1270,1265,4
+1265,migraine,Yes,1291,1265,3
+1434,other neurological problem,Yes,1489,1265,3
+1254,peripheral nerve disorder,Yes,1280,1265,1
+1251,spinal cord disorder,Yes,1277,1265,0
+1429,acromegaly,Yes,1484,1262,0
+1431,hyperprolactinaemia,Yes,1486,1262,0
+1430,hypopituitarism,Yes,1485,1262,0
+1238,pituitary adenoma/tumour,Yes,1263,1262,0
+1233,adrenal tumour,Yes,1258,1257,0
+1234,adrenocortical insufficiency/addison's disease,Yes,1259,1257,0
+1235,hyperaldosteronism/conn's syndrome,Yes,1260,1257,0
+1236,phaeochromocytoma,Yes,1261,1257,0
+1611,hyperparathyroidism,Yes,1679,1254,0
+1230,parathyroid hyperplasia/adenoma,Yes,1255,1254,0
+1522,grave's disease,Yes,1585,1249,0
+1225,hyperthyroidism/thyrotoxicosis,Yes,1250,1249,2
+1226,hypothyroidism/myxoedema,Yes,1251,1249,2
+1610,thyroid goitre,Yes,1678,1249,0
+1228,thyroid radioablation therapy,Yes,1253,1249,0
+1428,thyroiditis,Yes,1483,1249,0
+1521,diabetes insipidus,Yes,1584,1245,0
+1221,gestational diabetes,Yes,1246,1245,0
+1222,type 1 diabetes,Yes,1247,1245,0
+1223,type 2 diabetes,Yes,1248,1245,1
+1516,bph / benign prostatic hypertrophy,Yes,1579,1232,0
+1396,enlarged prostate,Yes,1441,1232,0
+1517,prostatitis,Yes,1580,1232,0
+1518,erectile dysfunction / impotence,Yes,1581,1231,0
+1404,male infertility,Yes,1453,1231,0
+1207,prostate problem (not cancer),Yes,1232,1231,0
+1210,scrotal problem (not cancer),Yes,1235,1231,0
+1214,testicular problems (not cancer),Yes,1239,1231,0
+1679,undescended testicle,Yes,1773,1231,0
+1202,urinary frequency / incontinence,Yes,1223,1222,0
+1514,cystitis,Yes,1577,1217,0
+1515,pyelonephritis,Yes,1578,1217,0
+1194,renal failure not requiring dialysis,Yes,1215,1213,0
+1193,renal failure requiring dialysis,Yes,1214,1213,0
+1165,pancreatitis,Yes,1186,1185,0
+1163,cholecystitis,Yes,1184,1182,0
+1162,cholelithiasis/gall stones,Yes,1183,1182,2
+1160,bile duct obstruction/ascending cholangitis,Yes,1181,1180,0
+1475,sclerosing cholangitis,Yes,1538,1180,0
+1604,alcoholic liver disease / alcoholic cirrhosis,Yes,1672,1179,0
+1506,primary biliary cirrhosis,Yes,1569,1179,0
+1578,hepatitis a,Yes,1642,1177,0
+1579,hepatitis b,Yes,1643,1177,0
+1580,hepatitis c,Yes,1644,1177,0
+1581,hepatitis d,Yes,1645,1177,0
+1582,hepatitis e,Yes,1646,1177,0
+1156,infective/viral hepatitis,Yes,1177,1176,0
+1157,non-infective hepatitis,Yes,1178,1176,0
+1511,abdominal hernia,Yes,1574,1158,2
+1510,dyspepsia / indigestion,Yes,1573,1158,0
+1509,gastroenteritis/dysentry,Yes,1572,1158,0
+1191,gastrointestinal bleeding,Yes,1212,1158,0
+1400,peptic ulcer,Yes,1445,1158,0
+1190,peritonitis,Yes,1211,1158,0
+1159,bile duct disease,Yes,1180,1156,0
+1161,gall bladder disease,Yes,1182,1156,2
+1507,haemochromatosis,Yes,1570,1156,0
+1155,hepatitis,Yes,1176,1156,3
+1508,jaundice (unknown cause),Yes,1571,1156,0
+1158,liver failure/cirrhosis,Yes,1179,1156,0
+1164,pancreatic disease,Yes,1185,1156,0
+1503,anal problem,Yes,1566,1155,0
+1502,appendicitis,Yes,1565,1155,3
+1601,bowel / intestinal infarction,Yes,1668,1155,0
+1602,bowel / intestinal obstruction,Yes,1670,1155,0
+1600,bowel / intestinal perforation,Yes,1667,1155,0
+1459,colitis/not crohns or ulcerative colitis,Yes,1519,1155,0
+1599,constipation,Yes,1666,1155,0
+1458,diverticular disease/diverticulitis,Yes,1518,1155,1
+1457,duodenal ulcer,Yes,1517,1155,0
+1461,inflammatory bowel disease,Yes,1521,1155,3
+1154,irritable bowel syndrome,Yes,1175,1155,2
+1456,malabsorption/coeliac disease,Yes,1516,1155,0
+1460,rectal or colon adenoma/polyps,Yes,1520,1155,0
+1603,rectal prolapse,Yes,1671,1155,0
+1142,gastric/stomach ulcers,Yes,1163,1154,2
+1143,gastritis/gastric erosions,Yes,1164,1154,0
+1501,pyloric stenosis,Yes,1564,1154,0
+1138,gastro-oesophageal reflux (gord) / gastric reflux,Yes,1159,1153,2
+1474,hiatus hernia,Yes,1537,1153,2
+1140,oesophageal stricture,Yes,1161,1153,0
+1141,oesophageal varicies,Yes,1162,1153,0
+1139,oesophagitis/barretts oesophagus,Yes,1160,1153,0
+1596,pleural effusion,Yes,1663,1136,0
+1595,pleural plaques (not known asbestosis),Yes,1662,1136,0
+1125,pleurisy,Yes,1144,1136,0
+1497,pneumothorax,Yes,1560,1136,0
+1124,respiratory failure,Yes,1143,1136,0
+1123,sleep apnoea,Yes,1142,1136,0
+1120,asbestosis,Yes,1139,1134,0
+1122,fibrosing alveolitis/unspecified alveolitis,Yes,1141,1134,0
+1121,pulmonary fibrosis,Yes,1140,1134,0
+1496,alpha-1 antitrypsin deficiency,Yes,1559,1132,0
+1412,bronchitis,Yes,1465,1132,4
+1472,emphysema,Yes,1534,1132,2
+1491,brain haemorrhage,Yes,1554,1098,0
+1583,ischaemic stroke,Yes,1649,1098,0
+1086,subarachnoid haemorrhage,Yes,1103,1098,0
+1590,pericardial effusion,Yes,1656,1097,0
+1589,pericarditis,Yes,1655,1097,0
+1588,hypertrophic cardiomyopathy (hcm / hocm),Yes,1654,1096,0
+1586,aortic valve disease,Yes,1652,1095,0
+1584,mitral valve disease,Yes,1650,1095,0
+1471,atrial fibrillation,Yes,1532,1094,1
+1483,atrial flutter,Yes,1546,1094,0
+1485,irregular heart beat,Yes,1548,1094,0
+1486,sick sinus syndrome,Yes,1549,1094,0
+1487,svt / supraventricular tachycardia,Yes,1550,1094,0
+1484,wolff parkinson white / wpw syndrome,Yes,1547,1094,0
+1094,deep venous thrombosis (dvt),Yes,1112,1085,2
+1093,pulmonary embolism +/- dvt,Yes,1111,1085,2
+1492,aortic aneurysm,Yes,1555,1084,0
+1088,arterial embolism,Yes,1105,1084,0
+1087,leg claudication/ intermittent claudication,Yes,1104,1084,0
+1425,cerebral aneurysm,Yes,1480,1083,0
+1081,stroke,Yes,1098,1083,1
+1083,subdural haemorrhage/haematoma,Yes,1100,1083,0
+1082,transient ischaemic attack (tia),Yes,1099,1083,0
+1074,angina,Yes,1091,1082,1
+1079,cardiomyopathy,Yes,1096,1082,0
+1077,heart arrhythmia,Yes,1094,1082,1
+1075,heart attack/myocardial infarction,Yes,1092,1082,1
+1076,heart failure/pulmonary odema,Yes,1093,1082,0
+1078,heart valve problem/heart murmur,Yes,1095,1082,2
+1426,myocarditis,Yes,1481,1082,0
+1080,pericardial problem,Yes,1097,1082,0
+1479,rheumatic fever,Yes,1542,1082,0
+1072,essential hypertension,Yes,1089,1081,1
+1073,gestational hypertension/pre-eclampsia,Yes,1090,1081,0
+1374,allergy/hypersensitivity/anaphylaxis,Yes,1417,1080,3
+1564,antiphospholipid syndrome,Yes,1628,1080,0
+1482,chronic fatigue syndrome,Yes,1545,1080,3
+1373,connective tissue disorder,Yes,1416,1080,1
+1371,sarcoidosis,Yes,1414,1080,0
+1364,breast disease (not cancer),Yes,1407,1079,0
+1348,gynaecological disorder (not cancer),Yes,1390,1079,0
+-1,obstetric problem,No,1621,1079,0
+-1,dermatology,No,1510,1078,3
+-1,haematology,No,1502,1078,2
+1294,back problem,Yes,1320,1077,2
+1293,bone disorder,Yes,1319,1077,1
+1407,burns,Yes,1458,1077,0
+-1,fracture,No,1695,1077,0
+1295,joint disorder,Yes,1321,1077,2
+1297,muscle/soft tissue problem,Yes,1323,1077,2
+1545,neck problem/injury,Yes,1608,1077,2
+1242,eye/eyelid problem,Yes,1268,1076,1
+1240,neurological injury/trauma,Yes,1266,1076,3
+-1,neurology,No,1265,1076,3
+1243,psychological/psychiatric problem,Yes,1269,1076,2
+1682,benign insulinoma,Yes,1778,1075,0
+1432,carcinoid syndrome/tumour,Yes,1487,1075,0
+1239,cushings syndrome,Yes,1264,1075,0
+1220,diabetes,Yes,1245,1075,1
+1232,disorder of adrenal gland,Yes,1257,1075,0
+1237,disorder or pituitary gland,Yes,1262,1075,0
+1229,parathyroid gland problem (not cancer),Yes,1254,1075,0
+1224,thyroid problem (not cancer),Yes,1249,1075,2
+1201,bladder problem (not cancer),Yes,1222,1074,1
+1197,kidney stone/ureter stone/bladder stone,Yes,1218,1074,2
+1405,other renal/kidney problem,Yes,1454,1074,2
+-1,other urological problem (male),No,1231,1074,0
+1192,renal/kidney failure,Yes,1213,1074,0
+1200,ureteric obstruction/hydronephrosis,Yes,1221,1074,0
+1196,urinary tract infection/kidney infection,Yes,1217,1074,2
+-1,bowel problem,No,1155,1073,2
+1136,liver/biliary/pancreas problem,Yes,1156,1073,2
+1134,oesophageal disorder,Yes,1153,1073,2
+1137,other abdominal problem,Yes,1158,1073,2
+1135,stomach disorder,Yes,1154,1073,2
+1111,asthma,Yes,1130,1072,3
+1114,bronchiectasis,Yes,1133,1072,0
+1112,chronic obstructive airways disease/copd,Yes,1131,1072,0
+1113,emphysema/chronic bronchitis,Yes,1132,1072,0
+-1,ent disorder/not cancer,No,1466,1072,3
+1115,interstitial lung disease,Yes,1134,1072,0
+1117,other respiratory problems,Yes,1136,1072,2
+1594,respiratory infection,Yes,1660,1072,4
+-1,cerebrovascular disease,No,1083,1071,1
+1066,heart/cardiac problem,Yes,1082,1071,1
+1473,high cholesterol,Yes,1536,1071,1
+1065,hypertension,Yes,1081,1071,0
+1493,other venous/lymphatic disease,Yes,1556,1071,0
+1067,peripheral vascular disease,Yes,1084,1071,0
+1068,venous thromboembolic disease,Yes,1085,1071,2
