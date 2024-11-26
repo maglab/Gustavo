@@ -29,7 +29,10 @@ library(stringr)
 ################################################################################
 
 # LOAD GENE CORRELATION/COEXPRESION MATRIX 
-Cor = read_tsv("maglab/Gustavo/Data/Retrieved/Networks/human_genes_correlation_matrix.tsv")
+Cor = read_tsv("maglab/Gustavo/Data/Retrieved/Networks/human_genes_correlation_matrix.tsv") # Note" human_genes_correlation_matrix.tsv is not updloaded in GutHub due to its size.  
+# This dataset can be retrieved from GeneFriends's DropBox:
+# GENEFRIENDS/homo_sapiens_sapiens/SRA/human_genes_correlation_matrix.tsv
+# https://www.dropbox.com/scl/fo/x81ozyv12lfg4ldvvfi86/AFpAdqqQDf2b1P4ElmYD6vE/homo_sapiens_sapiens/SRA?rlkey=hekwmj2pglukjbpwo47xepr7r&e=1&subfolder_nav_tracking=1&dl=0
 
 ensembl = useMart("ensembl",dataset="hsapiens_gene_ensembl")
 
