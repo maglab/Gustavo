@@ -63,7 +63,7 @@ for(i in 1:N_Nodes){
   
   # GET PHENOTYPE DATA
   
-  FilePath = paste("maglab/Gustavo/Data/Retrieved/Ukbb/a", Node, ".imp.stats", sep = "") # We did not upload these files to GitHub due to theis size.They can be downloaded at: BioStudies (S- BSST407) 
+  FilePath = paste("maglab/Gustavo/Data/Retrieved/Ukbb/a", Node, ".imp.stats", sep = "") # We did not upload these files to GitHub due to their size.They can be downloaded at: BioStudies (S- BSST407) 
   PathExists = FilePath %>% file.exists()
   
   if(PathExists){
