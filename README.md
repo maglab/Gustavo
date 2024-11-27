@@ -18,6 +18,28 @@ Missing Retrieved Data (data retrievd directly from publicibly available databas
 Missing Generated Data (Primarily consisting of gene distance and proximity matrices, as well as relationships between diseases and coexpression):
 Files include:
 
+- Disease self- and cross-coexpression relationships
+- - maglab/Gustavo/Data/Generated/Coexpression/Coexpression_Pairwise_Frame.rds
+- - maglab/Gustavo/Data/Generated/Coexpression/Coexpression_Scores_Frame.rds
+
+Gene-Gene distanes for PPI
+maglab/Gustavo/Data/Generated/PPI/Proximity_and_Distances/GenGen_DistanceFrame.rds
+maglab/Gustavo/Data/Generated/PPI/Proximity_and_Distances/GenGen_ProximityFrame.rds
+
+Gene-Gene distanes for COX90
+maglab/Gustavo/Data/Generated/COX90/Proximity_and_Distances/GenGen_DistanceFrame.rds
+maglab/Gustavo/Data/Generated/COX90/Proximity_and_Distances/GenGen_ProximityFrame.rds
+
+Gene-Gene distanes for COX95
+maglab/Gustavo/Data/Generated/COX95/Proximity_and_Distances/GenGen_DistanceFrame.rds
+maglab/Gustavo/Data/Generated/COX95/Proximity_and_Distances/GenGen_ProximityFrame.rds
+
+Gene-Gene distanes for KEGG
+maglab/Gustavo/Data/Generated/KEGG/Proximity_and_Distances/GenGen_DistanceFrame.rds
+maglab/Gustavo/Data/Generated/KEGG/Proximity_and_Distances/GenGen_ProximityFrame.rds
+
+
+
 X1
 X2
 If you would like access to these files, please feel free to contact us, and we will be happy to share them.
