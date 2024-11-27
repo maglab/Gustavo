@@ -8,10 +8,10 @@ The code references the locations within the data folders to save and load infor
 
 Missing Retrieved Data (data retrievd directly from publicibly available databases):
 
-- Biogrid PPI (downloadable from Biogrid) The symbolical Github path for these files is "maglab/Gustavo/Data/Retrieved/Networks/BIOGRID-MV-Physical-4.4.204.tab3.txt"
-- 
-- GeneFriends Coexpression: Downloadable as . The symbolical Github path for these files is "maglab/Gustavo/Data/Retrieved/Networks/BIOGRID-MV-Physical-4.4.204.tab3.txt"
-- 
+- Biogrid's PPI:  Downloadable at BioGrids's Human Physical Interactions, "BIOGRID-MV-Physical-4.4.204.tab3.txt". The symbolical Github path for these files is "maglab/Gustavo/Data/Retrieved/Networks/BIOGRID-MV-Physical-4.4.204.tab3.txt"
+  
+- GeneFriends Coexpression: Downloadable at GeneFriends DropBox "GENEFRIENDS/homo_sapiens_sapiens/SRA/human_genes_correlation_matrix.tsv". The symbolical Github path for these files is "maglab/Gustavo/Data/Retrieved/Networks/human_genes_correlation_matrix.tsv"
+  
 - UKBB GWAS: Downloadable at "BioStudies (S- BSST407)". The symbolical Github's folder path for these files is "maglab/Gustavo/Data/Retrieved/Ukbb".
 
 
