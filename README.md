@@ -4,9 +4,9 @@ In this repository, you will find the code and the data /data-links required to 
 This repository contains two folders:
 
 Code Folder: Contains the code used in this project.
-Data Folder: Divided into two parts:
-Obtained Data
-Generated Data
+
+Data Folder: Divided into two parts: Retrieved Data and Generated Data
+
 The code references the locations within the data folders to save and load information. However, due to GitHub's file size limitations, not all files could be uploaded. As a result, some datasets or databases were excluded from Kick Hof because they exceed this limit. These include both obtained and generated datasets:
 
 Missing Retrieved Data (data retrievd directly from publicibly available databases):
