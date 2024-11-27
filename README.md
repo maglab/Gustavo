@@ -26,8 +26,8 @@ Files include:
   - maglab/Gustavo/Data/Generated/Coexpression/Coexpression_Scores_Frame.rds
 
 - Gene-Gene distanes for PPI
-maglab/Gustavo/Data/Generated/PPI/Proximity_and_Distances/GenGen_DistanceFrame.rds
-maglab/Gustavo/Data/Generated/PPI/Proximity_and_Distances/GenGen_ProximityFrame.rds
+  - maglab/Gustavo/Data/Generated/PPI/Proximity_and_Distances/GenGen_DistanceFrame.rds
+  - maglab/Gustavo/Data/Generated/PPI/Proximity_and_Distances/GenGen_ProximityFrame.rds
 
 - Gene-Gene distanes for COX90
   - maglab/Gustavo/Data/Generated/COX90/Proximity_and_Distances/GenGen_DistanceFrame.rds
