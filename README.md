@@ -19,7 +19,7 @@ Missing Generated Data (Primarily consisting of gene distance and proximity matr
 Files include:
 
 - Disease self- and cross-coexpression relationships
--- maglab/Gustavo/Data/Generated/Coexpression/Coexpression_Pairwise_Frame.rds
+  - maglab/Gustavo/Data/Generated/Coexpression/Coexpression_Pairwise_Frame.rds
 -- maglab/Gustavo/Data/Generated/Coexpression/Coexpression_Scores_Frame.rds
 
 Gene-Gene distanes for PPI
