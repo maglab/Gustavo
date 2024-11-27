@@ -1,3 +1,6 @@
+
+In this repository, you will find the code and the data /data-links required to replicate the experiment conducted in the project "Pleiotropy and Disease Interactors: The Dual Nature of Genes Linking Ageing and Ageing-related Diseases."
+
 This repository contains two folders:
 
 Code Folder: Contains the code used in this project.
