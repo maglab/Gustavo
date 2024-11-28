@@ -192,7 +192,7 @@ for(i in 1:NewPhnLen){
     
     
     # STATISTICAL TESTS
-    ColRow.Tst = tryCatch({t.test(ColScrPhnPhn, RowScrPhnPhn)$p.value}, error = function(e){NA})
+   ColRow.Tst = tryCatch({wilcox.test(ColScrPhnPhn, RowScrPhnPhn)$p.value}, error = function(e){NA})
 
     # CREATE FRAME
     ssPhnPhnTstFrm =
