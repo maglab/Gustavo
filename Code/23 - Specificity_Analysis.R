@@ -137,7 +137,7 @@ PhnTauFrm$color_group = 'Other_ARCs'
 PhnTauFrm$Lbl = 'Tissue specificity in genes associated to ARCs and GenAge'
 PhnTauFrm$color_group[PhnTauFrm$Phn %in% "immunological/systemic disorders"] = "immunological/systemic disorders"
 PhnTauFrm$color_group[PhnTauFrm$Phn %in% unique(GenAgeFrm$Phn)] = "immunological/systemic disorders"
-PhnTauFrm$color_group[PhnTauFrm$Phn %in% unique(GenPltFrm$Phn)] = "Pleiotropies"
+PhnTauFrm$color_group[PhnTauFrm$Phn %in% unique(DirIntFrm$Phn)] = "Pleiotropies"
 
 NewPhnArr = PhnTauFrm$Phn %>% unique()
 NewPhnLen = length(NewPhnArr)
