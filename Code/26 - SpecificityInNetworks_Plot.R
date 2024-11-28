@@ -152,6 +152,17 @@ for(z in 1:DtsLen){
   
   pwc = TstFrm %>% pairwise_t_test( Tau ~ NumThr , p.adjust.method = "bonferroni")
 
+  # WILCOXON TEXT IF NECCESARY
+  if(TRUE){
+    pwc2 <- pairwise.wilcox.test( TstFrm$Tau , TstFrm$NumThr , p.adjust.method = "bonferroni") %>% tidy() %>% mutate(p.adj=p.value, P=p.value, `.y.`="Y") 
+    if(nrow(pwc)==0){
+      pwc = pwc2
+    }
+    pwc$p = pwc2$p.value
+    pwc$p.adj = pwc2$p.value %>% signif(2)
+    CapTxt = "pwc: Wilcox test; p.adjust: Bonferroni"
+  }
+
   if(TypIntQry == "Dir"){
     TstFrm$TypInt = paste("Tissue specificity\nARC-Pleiotropy", sep="")
     Xlab = "Number of directly\nconnected ARCs"
