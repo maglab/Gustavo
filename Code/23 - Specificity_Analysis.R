@@ -38,6 +38,8 @@ library(tidyr)
 library(rstatix)
 library(reshape2)
 
+### START ######################################################################
+
 # LOADING GENE-ARC FRAME
 GenArcFrm = readRDS("maglab/Gustavo/Data/Generated/General/ARD_ARC_GeneFrame.rds") %>%
   dplyr::rename(Phn=ARC_Meaning, Gen=Gene) %>%
